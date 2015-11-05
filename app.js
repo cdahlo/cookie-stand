@@ -85,3 +85,7 @@ alki.totalEachHour();
 alki.display();
 
 var location = new location (document.getElementById'location', document.getElementById'max', document.getElementById'min', (document.getElementById 'avg'* document.getElementById'cookies'));
+
+location.totalEachHour();
+location.display();
+
